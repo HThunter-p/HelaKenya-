@@ -1,0 +1,26 @@
+HelaKenya/
+│
+├── mobile/
+│   ├── lib/
+│   │   └── main.dart
+│   ├── assets/
+│   │   └── icons/
+│   │       └── helakenya_icon.png      # Use your provided aviator icon here
+│   ├── pubspec.yaml
+│   └── README.md
+│
+├── web/
+│   ├── public/
+│   │   └── helakenya_icon.png          # Use your provided aviator icon here
+│   ├── src/
+│   │   └── DepositForm.jsx
+│   ├── package.json
+│   └── README.md
+│
+├── backend/
+│   ├── mpesaStkPush.js
+│   ├── .env.example
+│   ├── package.json
+│   └── README.md
+│
+└── README.md
